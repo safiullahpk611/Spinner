@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144385187070",
+    "project_id": "spinzy-dc037",
+    "storage_bucket": "spinzy-dc037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144385187070:android:cd86731c91442b599519af",
+        "android_client_info": {
+          "package_name": "com.example.spinzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144385187070-16ihueu4md0ubojl4rsvosli5suml6ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI62Wld3CD9JwpjGdAUJQbyIE3kvoENAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144385187070-16ihueu4md0ubojl4rsvosli5suml6ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
